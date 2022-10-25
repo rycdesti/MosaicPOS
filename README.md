@@ -25,4 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Sample Output
 
-![Alt text](https://github.com/rycdesti/MosaicPOS/blob/f3b5eeeb1b9d629c234b71adeeb14d62cd72033e/src/assets/sample/1.jpeg?raw=true "Optional Title")
+![Alt text](https://github.com/rycdesti/MosaicPOS/blob/f9909fcc14eb958deb99074ac60ad77abade9bde/src/assets/sample/1.jpeg?raw=true "Optional Title")
+![Alt text](https://github.com/rycdesti/MosaicPOS/blob/f9909fcc14eb958deb99074ac60ad77abade9bde/src/assets/sample/2.jpeg?raw=true "Optional Title")
+![Alt text](https://github.com/rycdesti/MosaicPOS/blob/f9909fcc14eb958deb99074ac60ad77abade9bde/src/assets/sample/3.jpeg?raw=true "Optional Title")
